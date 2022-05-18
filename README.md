@@ -9,7 +9,7 @@ Currently on my 3rd Semester in Multimedia Design at KEA!
 * 🌍  I'm based in Copenhagen
 * 🖥️  See my portfolio at [Work in progress](http://#)
 * ✉️  You can contact me at [rabse123@hotmail.com](mailto:rabse123@hotmail.com)
-* 🧠  I'm learning React, Tailwind CSS and Vue.js!
+* 🧠  I'm learning React and Tailwind CSS atm!
 
 ### Skills
 
